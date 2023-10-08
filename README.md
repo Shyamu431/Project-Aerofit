@@ -13,7 +13,11 @@ Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a
 
 - [x] The KP781 treadmill is having advanced features that sell for $2,500.
 
+![Screenshot 2023-10-08 224011](https://github.com/Shyamu431/Project-Aerofit/assets/144362526/db5c0fc6-5947-40bd-889d-d5e06a6de3cd)
+
+
 **Tools and Steps**
+![Screenshot 2023-10-08 224526](https://github.com/Shyamu431/Project-Aerofit/assets/144362526/598541d1-756d-46ea-a668-00688d8bfd7d)
 
 * I have started this project by doing exploratory data analysis with the help of python libraries like Pandas, NumPy, Matplotlib and Seaborn.
 
